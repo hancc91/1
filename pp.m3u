@@ -13,6 +13,10 @@ http://223.110.253.152:6610/gitv/live1/G_CCTV-3-CQ/index.m3u8
 http://223.110.245.138/PLTV/1/224/3221227549/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4-8M
 http://223.110.253.152:6610/gitv/live1/G_CCTV-4-CQ/index.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5-12M
+http://223.110.243.136/PLTV/4/224/3221227537/index.m3u8
+
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5-8M
 http://223.110.253.152:6610/gitv/live1/G_CCTV-5-CQ/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+-8M
@@ -374,6 +378,6 @@ http://211.137.115.110:8080/gitv_live/G_ANHUI-MD/G_ANHUI-MD.m3u8?p=GITV&area=SAX
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视-12M
 http://211.137.115.110:8080/gitv_live/G_HUBEI-MD/G_HUBEI-MD.m3u8?p=GITV&area=SAXYD
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6HD
-http://223.110.243.168/PLTV/3/224/3221227493/index.m3u8
+http://223.110.243.138/PLTV/1/224/3221227505/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8HD
 http://223.110.243.135/PLTV/1/224/3221227473/index.m3u8
